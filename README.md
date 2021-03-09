@@ -41,3 +41,25 @@ Application: No man is an island. Every person needs the company/help of others.
 Methali: TISA KARIBU NA KUMI
 Meaning: Nine is near ten.
 Application: Never give up when you are about to complete a task or nearing the end.
+
+##### Mazoezi Zaidi
+
+Methali: AKILI NI MALI
+Meaning: Intelligence is an asset.
+Application: Knowledge can be used to better ones life.
+
+Methali: HABA NA HABA HUJAZA KIBABA
+Meaning: Little by little fills up the measure.
+Application: Great investments are borne out of small savings. A great journey is begun by a single mile.
+
+Methali: HASIRA HASARA
+Meaning: Anger brings damage.
+Application: Prudence is important in decision making.
+
+Methali: MTOTO WA NYOKA NI NYOKA
+Meaning: The child of a snake is a snake.
+Application: Like father like son. The apple does not fall away from its tree. Good behavior is learnt and a child learns what he lives.
+
+Methali: TABIA NI NGOZI
+Meaning: Habit is a skin.
+Application: It is difficult to change ones habits/ character.
